@@ -14,3 +14,9 @@ I worked on player inventory, player health, UI, invincibility, zoomer enemy, sk
 [https://changliu2025.itch.io/project-onion](https://changliu2025.itch.io/project-onion)
 
 I worked on all aspect of this game. It is a game inspired by NASA's project orion, where the spacecraft is propelled by controlled impulses of nuclear explosions. 
+
+### The Retriever by Chang Liu, Rowan Fila, Santiago Fiori, Arvid Jonsson ###
+
+[https://changliu2025.itch.io/the-retriever](https://changliu2025.itch.io/the-retriever)
+
+I worked on player control, player movement, player weapon, driving, cutscene, map design, bug fixes.
